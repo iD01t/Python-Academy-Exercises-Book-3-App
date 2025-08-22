@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "iD01t Academy – Python Exercises Book 3 (Edition 2)"
+authors:
+  - family-names: "Lessard"
+    given-names: "Guillaume"
+    affiliation: "iD01t Productions"
+repository-code: "https://github.com/id01t/id01t-academy-book3"
+version: "0.1.0"
+date-released: "2025-08-22"
+license: "MIT"

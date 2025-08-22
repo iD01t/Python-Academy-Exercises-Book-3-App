@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+dist/
+build/
+htmlcov/
+.coverage*
+.pytest_cache/
+.mypy_cache/
+.env
+.venv/
+venv/
+ENV/
+
+# Qt / PyInstaller
+*.spec
+*.icns
+*.ico
+*.qt*
+*.qmlc
+*.jsc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data
+data/
+settings.json
+*.db
+*.sqlite
+*.log
+*.cache
+
+# Notebooks
+.ipynb_checkpoints/
+
+# VSCode/PyCharm
+.vscode/
+.idea/

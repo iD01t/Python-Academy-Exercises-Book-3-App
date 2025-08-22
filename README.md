@@ -1,4 +1,4 @@
-# iD01t Academy – Python Exercises Book 3 
+# iD01t Academy – Python Exercises Book 3 (Edition 2)
 
 A polished, single-file desktop learning platform built with Qt (PySide6/PyQt5). It ships **10 chapters** of practical tools from Book 3: AI Summarizer, Crypto Tracker, Invoice Generator, Weather, Knowledge Base, Portfolio, Task Automation Bot, Quiz App, Resume Builder, and the Freelance Toolkit — all in one dark-themed app.
 
